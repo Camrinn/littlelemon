@@ -9,10 +9,10 @@ function About() {
       </p>
       <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', marginTop: '1rem' }}>
         <div style={{ width: '200px', height: '200px', backgroundColor: '#ccc' }}>
-          {/* Image Placeholder for Adrian */}
+        <img src="/Mario and Adrian A.jpg" alt="Mario & Adrian" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />          {/* Image Placeholder for Adrian */}
         </div>
         <div style={{ width: '200px', height: '200px', backgroundColor: '#ccc' }}>
-          {/* Image Placeholder for Mario */}
+        <img src="/Mario and Adrian B.jpg" alt="Mario & Adrian" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />          {/* Image Placeholder for Adrian */}
         </div>
       </div>
     </section>
